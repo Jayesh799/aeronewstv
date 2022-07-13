@@ -1,0 +1,27 @@
+
+
+ @media (min-width: 0px) and (max-width: 575px) { 
+	.logo {
+		width: 60% !important;
+	}
+ }
+
+
+
+@media (min-width: 576px) and (max-width: 768px) { 
+	.logo {
+		width: 40%!important;
+	}
+ }
+
+ @media (min-width: 769px) and (max-width: 992px) { 
+	.logo {
+		width: 30%!important;
+	}
+ }
+
+ @media (min-width: 993px) and (max-width: 1200px) { 
+	.logo {
+		width: 20%!important;
+	}
+ }
